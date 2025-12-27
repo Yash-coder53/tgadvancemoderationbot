@@ -1,0 +1,15 @@
+python-telegram-bot==20.7
+Pillow==10.2.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+scikit-learn==1.4.1
+tensorflow==2.15.0
+keras==2.15.0
+python-dotenv==1.0.0
+redis==5.0.1
+psycopg2-binary==2.9.9
+alembic==1.13.1
+python-multipart==0.0.9
+aiofiles==23.2.1
+pandas==2.2.1
+python-dateutil==2.8.2
